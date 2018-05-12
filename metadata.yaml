@@ -1,0 +1,32 @@
+_repo: Lectures-on-ArtDelivered-before-the-University-of-Oxford-in-Hilary-term-1870_19164
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ruskin, John
+    alias: Ruskin, J. (John)
+    birthdate: 1819
+    deathdate: 1900
+    gutenberg_agent_id: '359'
+    url: http://www.gutenberg.org/2009/agents/359
+    wikipedia: http://en.wikipedia.org/wiki/John_Ruskin
+description: ''
+gutenberg_bookshelf: Art
+gutenberg_issued: '2006-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19164'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art'
+- !lcc 'N'
+tableOfContents: Inaugural -- The relation of art to religion -- The relation of art
+  to morals -- The relation of art to use -- Line -- Light -- Colour.
+title: Lectures on Art, Delivered Before the University of Oxford in Hilary Term,
+  1870
+url: http://www.gutenberg.org/ebooks/19164
