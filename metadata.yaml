@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/359
     wikipedia: http://en.wikipedia.org/wiki/John_Ruskin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19164#Lectures-on-ArtDelivered-before-the-University-of-Oxford-in-Hilary-term-1870
 gutenberg_bookshelf: Art
 gutenberg_issued: '2006-09-03'
 gutenberg_type: Text
